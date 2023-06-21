@@ -1,0 +1,9 @@
+.alinha{
+  display: flex;
+  justify-content: center;
+}
+
+.tamanho{
+  max-width: 50px;
+  height: auto;
+}
